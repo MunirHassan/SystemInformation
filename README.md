@@ -4,8 +4,8 @@ Sometimes we need to identify a Computer uniquely or give an unique ID to a comp
 And we can combine few information to make an unique ID.
 
 This project will help to get the following information:
-OS Platform, 
-Processor Id,
+1. OS Platform, 
+2. Processor Id,
 HDDSerial No,
 MAC Address,
 Board Maker,
