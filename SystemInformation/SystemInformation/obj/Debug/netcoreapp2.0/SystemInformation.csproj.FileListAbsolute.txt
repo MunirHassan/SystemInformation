@@ -1,0 +1,11 @@
+C:\_D\Git n git\SystemInformation\SystemInformation\obj\Debug\netcoreapp2.0\SystemInformation.csprojResolveAssemblyReference.cache
+C:\_D\Git n git\SystemInformation\SystemInformation\obj\Debug\netcoreapp2.0\SystemInformation.csproj.CoreCompileInputs.cache
+C:\_D\Git n git\SystemInformation\SystemInformation\obj\Debug\netcoreapp2.0\SystemInformation.AssemblyInfoInputs.cache
+C:\_D\Git n git\SystemInformation\SystemInformation\obj\Debug\netcoreapp2.0\SystemInformation.AssemblyInfo.cs
+C:\_D\Git n git\SystemInformation\SystemInformation\bin\Debug\netcoreapp2.0\SystemInformation.deps.json
+C:\_D\Git n git\SystemInformation\SystemInformation\bin\Debug\netcoreapp2.0\SystemInformation.runtimeconfig.json
+C:\_D\Git n git\SystemInformation\SystemInformation\bin\Debug\netcoreapp2.0\SystemInformation.runtimeconfig.dev.json
+C:\_D\Git n git\SystemInformation\SystemInformation\bin\Debug\netcoreapp2.0\SystemInformation.dll
+C:\_D\Git n git\SystemInformation\SystemInformation\bin\Debug\netcoreapp2.0\SystemInformation.pdb
+C:\_D\Git n git\SystemInformation\SystemInformation\obj\Debug\netcoreapp2.0\SystemInformation.dll
+C:\_D\Git n git\SystemInformation\SystemInformation\obj\Debug\netcoreapp2.0\SystemInformation.pdb
